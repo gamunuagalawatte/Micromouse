@@ -3,7 +3,7 @@
 Competition maze-solving robot built across two iterations.
 
 ## Team Members
-[Your name], [teammates if you want to credit them]
+Gamunu, Dulaj, Ashintha, Lakna, Yesith
 
 ## My Role
 Led the mechanical structure and sensor placement design for both
